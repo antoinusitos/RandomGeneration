@@ -1,6 +1,0 @@
-#Comment
-File=SystemInfos.txt
-#Using Vsync
-Vsync=true
-#Read Quest File
-ReadQuestFile=true

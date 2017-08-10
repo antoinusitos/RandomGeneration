@@ -1,0 +1,32 @@
+#First quest
+#cleaning the room
+iD=0
+name=Clean your room
+description=Pickup 3 objects
+questType=4
+progressType=0
+distanceToQuest=0
+progressToEnd=0
+stepNumber=3
+questsToActivate=1,2
+
+iD=1
+name=Become rich
+description=Pickup 10 coins
+questType=1
+progressType=0
+distanceToQuest=0
+progressToEnd=0
+stepNumber=10
+
+iD=2
+name=Become poor
+description=Spend 10 coins
+questType=1
+progressType=0
+distanceToQuest=0
+progressToEnd=0
+stepNumber=10
+
+#QuestType : (0)None, (1)Collect, (2)Reach, (3)Destroy, (4)Achieve
+#ProgressType : (0)Pending, (1)InProgress, (2)Ended, (3)Failed
